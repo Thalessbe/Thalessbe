@@ -13,3 +13,5 @@ Granduando em Engenharia de Produção, com foco em análise e engenharia de dad
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalessbe&exclude_repo=github-readme-stats,anuraghazra.github.io)
