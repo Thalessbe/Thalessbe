@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá sou o Thales ✌️
 
-<!--
-**Thalessbe/Thalessbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Granduando em Engenharia de Produção, com foco em análise e engenharia de dados.Acredito que meu diferencial está em minha formação em andamento em gestão, combinada com minha atuação na área de tecnologia. Isso me proporciona uma visão única e uma gama diversificada de habilidades e conhecimentos.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalessb/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Thalesbe GitHub stats](https://github-readme-stats.vercel.app/api?username=thalessbe&show_icons=true&theme=transparent)
+
+### Ferramentas 
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
